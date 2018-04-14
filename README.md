@@ -1,6 +1,6 @@
 # repoSynopsis
 
-    | Repo Name| Repo Link
+|    | Repo Name | Repo Link
 ------------ | ------------- | -------------
 |   | angular-material-datetimepicker | |
 |   | angular4-vanila-app | |
