@@ -2,8 +2,8 @@
 
 | S.No. | Repo Name| Repo Link |
 | :---: | :---: | :---: |
-
-|   | angular-material-datetimepicker||
+|   | angular-material-datetimepicker | |
+| :---: | :---: | :---: |
 |   | angular4-vanila-app | |
 |   | bower-license-tracker   | |
 |   | bower-license| |
