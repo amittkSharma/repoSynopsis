@@ -3,13 +3,13 @@
 
 S.No. | Repo Name| Repo Link
 ------------ | ------------- | -------------
-|   | angular-material-datetimepicker | |
-|   | angular4-vanila-app | |
-|   | bower-license-tracker   | |
-|   | bower-license| |
-|   | changelog-generator ||
-|   | cs-tslint-rules| |
-|   | element-react | |
+| * | angular-material-datetimepicker | |
+| * | angular4-vanila-app | |
+| * | bower-license-tracker   | |
+| * | bower-license| |
+| * | changelog-generator ||
+| * | cs-tslint-rules| |
+| * | element-react | |
 |   | element-react-ui-components |  |
 |   | express-restapi-graphql-server  |  |
 |   | extended-datetimepicker  |  |
