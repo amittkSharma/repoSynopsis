@@ -2,7 +2,7 @@
 
 |    | Repo Name | Repo Link
 ------------ | ------------- | -------------
-|   | angular-material-datetimepicker | |
+|   | angular-material-datetimepicker | [GitHub](http://github.com) |
 |   | angular4-vanila-app | |
 |   | bower-license-tracker   | |
 |   | bower-license| |
