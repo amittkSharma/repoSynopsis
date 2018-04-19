@@ -18,6 +18,7 @@
 |   | license-checker | [license-checker](https://github.com/amittkSharma/license-checker)  |
 |   | md-data-table | [md-data-table](https://github.com/amittkSharma/md-data-table) |
 |   | material.angular.io | [material.angular.io](https://github.com/amittkSharma/material.angular.io) |
+|   | react-calendar | [react-calendar](https://github.com/amittkSharma/react-calendar)
 |   | react-sidebar| [react-sidebar](https://github.com/amittkSharma/react-sidebar) |
 |   | react-simple-sidenav | [react-simple-sidenav](https://github.com/amittkSharma/react-simple-sidenav) |
 |   | repoSynopsis | [repoSynopsis](https://github.com/amittkSharma/repoSynopsis) |
